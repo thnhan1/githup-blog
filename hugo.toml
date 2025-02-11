@@ -1,0 +1,60 @@
+# baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+# baseURL = "https://thnhan1.com/"
+# languageCode = "vi-vn"
+# title = "thnhan1's blog"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Tran Huu Nhan"
+  description = "Life Is Short, Live It Well"
+  github = "thnhan1"
+  facebook = "thnhan1"
+  twitter = "thnhan1"
+  linkedin = "thnhan1"
+  instagram = "thnhan1"
+  tumblr = "thnhan1"
+  email = "thnhan1@gmail.com"
+  url = "https://nhanblog.netlify.app"
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github.png"
+  avatar = "/images/avatar.png"
+  headerIcon = "/images/GitHub-Mark-Light-32px.png"
+  location = "Vietnam"
+  enableGitalk = true
+  custom_css = ["css/custom.css"]
+  custom_js = ["js/custom.js"]
+
+  [params.gitalk]
+    clientID = "Ov23liU3vNZXDVagATu1"
+    clientSecret = "b068ed3d77596a9b812740def10efc94a2e94cde"
+    repo = "repo"
+    owner = "thnhan1"
+    admin = "thnhan1"
+    id = "location.pathname"
+    labels = "gitalk"
+    perPage = 15
+    pagerDirection = "last"
+    createIssueManually = true
+    distractionFreeMode = false
+
+  [[params.links]]
+    title = "Link"
+    href = "https://github.com/thnhan1"
+#   [[params.links]]
+#     title = "Link2"
+#     href = "https://thnhan1.com"
+#     icon = "https://thnhan1.com/images/avatar.png"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+# [services]
+#   [services.googleAnalytics]
+#     ID = "UA-123456-789"

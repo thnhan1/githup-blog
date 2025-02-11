@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2025 18:12:23 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>//localhost:1313/post/first/</link>
+      <pubDate>Tue, 11 Feb 2025 18:10:42 +0700</pubDate>
+      <guid>//localhost:1313/post/first/</guid>
+      <description>bai post dau tien</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/readme/</guid>
+      <description>the summary</description>
+    </item>
+  </channel>
+</rss>
