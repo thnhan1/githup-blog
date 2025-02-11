@@ -34,7 +34,7 @@ pygmentsUseClasses = true
   [params.gitalk]
     clientID = "Ov23liU3vNZXDVagATu1"
     clientSecret = "b068ed3d77596a9b812740def10efc94a2e94cde"
-    repo = "repo"
+    repo = "githup-blog"
     owner = "thnhan1"
     admin = "thnhan1"
     id = "location.pathname"
@@ -55,6 +55,6 @@ pygmentsUseClasses = true
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
 
-# [services]
-#   [services.googleAnalytics]
-#     ID = "UA-123456-789"
+[services]
+  [services.googleAnalytics]
+    ID = "G-FBDKD04DK9"
