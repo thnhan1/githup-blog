@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+/public
+/resources
+/themes/*/exampleSite
+/layouts/_partials/
+/data/
+/config/_default/
+/config/development/
+/config/production/
+
+.hugo_cache
