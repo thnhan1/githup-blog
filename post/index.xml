@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nhan&#39;s blog</title>
+    <link>https://thnhan1.github.io/githup-blog/post/</link>
+    <description>Recent content in Posts on Nhan&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>vn-vi</language>
+    <lastBuildDate>Tue, 18 Feb 2025 16:24:46 +0700</lastBuildDate>
+    <atom:link href="https://thnhan1.github.io/githup-blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Complete Guide using github-style hugo template</title>
+      <link>https://thnhan1.github.io/githup-blog/post/guide/</link>
+      <pubDate>Tue, 18 Feb 2025 06:10:47 +0700</pubDate>
+      <guid>https://thnhan1.github.io/githup-blog/post/guide/</guid>
+      <description>&lt;h1 id=&#34;guide-using-github-style-hugo-template&#34;&gt;Guide using Github-Style hugo template&lt;/h1&gt;&#xA;&lt;h2 id=&#34;main-readme&#34;&gt;Main readme&lt;/h2&gt;&#xA;&lt;p&gt;Edit &lt;code&gt;content/readme.md&lt;/code&gt; or create one if it does not exist.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
